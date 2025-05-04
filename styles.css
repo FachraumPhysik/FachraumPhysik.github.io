@@ -107,3 +107,11 @@ body.dark .contributors-box {
   color: #fff;
 }
 
+.podcast-icon {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+
