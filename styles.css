@@ -108,8 +108,8 @@ body.dark .contributors-box {
 }
 
 .podcast-icon {
-  width: 100px;
-  height: 100px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
   border-radius: 12px;
   margin-bottom: 15px;
